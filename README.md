@@ -1,6 +1,6 @@
 # SOC-Analyist-career path 
 
-## Whatis the name of the career path?
+## What is the name of the career path?
 Security Operations Center analyist 
 
 ## What are the main responsibilities for someone in this role?
@@ -39,8 +39,8 @@ Automation & Scripting.
 
 ## Why did I choose this career field?
 I enjoy solving problems, not just using technology
-I am very interested in cybersecurity as a whole
-SOC A SOC role exposes you to many parts of cybersecurity
+I am very interested in cybersecurity as a whole,
+A SOC role exposes you to many parts of cybersecurity
 It builds skills that transfer
 It aligns with my long-term goals
 
