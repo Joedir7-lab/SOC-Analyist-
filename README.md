@@ -7,13 +7,13 @@ Security Operations Center analyist
 To monitor systems for signs of cyberattacks, investigate suspicious activity, and help stop threats before they cause damage.
 
 ## What are the skills required for this career?
-Networking  
-Operating Systems
-Log Analysis
-Cybersecurity Fundamentals
-Security Tools 
-Basic Scripting
-Security Frameworks 
+Networking, 
+Operating Systems,
+Log Analysis,
+Cybersecurity Fundamentals,
+Security Tools, 
+Basic Scripting,
+Security Frameworks. 
 
 ## Physical skills required for this career?
 Analytical Thinking
