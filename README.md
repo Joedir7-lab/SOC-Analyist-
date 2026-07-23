@@ -16,26 +16,26 @@ Basic Scripting,
 Security Frameworks. 
 
 ## Physical skills required for this career?
-Analytical Thinking
-Communication
-Time Management
-Teamwork
-Continuous Learning
+Analytical Thinking,
+Communication,
+Time Management,
+Teamwork,
+Continuous Learning.
 
 ## Which tools or technologies are commonly used in this field?
-SIEM (Security Information and Event Management)
-EDR/XDR (Endpoint Detection & Response)
-Network Analysis Tools
-Threat Intelligence Platforms
-Firewall Management
-Identity & Access Management (IAM)
-Ticketing Systems
-Operating Systems
-Threat Detection Frameworks
-Command-Line Tools
-Cloud Security Platforms
-Digital Forensics Tools
-Automation & Scripting
+SIEM (Security Information and Event Management),
+EDR/XDR (Endpoint Detection & Response),
+Network Analysis Tools,
+Threat Intelligence Platforms,
+Firewall Management,
+Identity & Access Management (IAM),
+Ticketing Systems,
+Operating Systems,
+Threat Detection Frameworks,
+Command-Line Tools,
+Cloud Security Platforms,
+Digital Forensics Tools,
+Automation & Scripting.
 
 ## Why did I choose this career field?
 I enjoy solving problems, not just using technology
