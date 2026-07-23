@@ -45,12 +45,12 @@ It builds skills that transfer
 It aligns with my long-term goals
 
 ## What steps will I take to become succesful in this field?
-Never stop learning
-Become excellent at the fundamentals
-Learn to think like both an attacker and a defender
-Become known for reliability
-Automate repetitive work
-Build a personal brand
-Build a network
-Specialize after I've built a strong foundation
+Never stop learning,
+Become excellent at the fundamentals,
+Learn to think like both an attacker and a defender,
+Become known for reliability,
+Automate repetitive work,
+Build a personal brand,
+Build a network,
+Specialize after I've built a strong foundation.
 
